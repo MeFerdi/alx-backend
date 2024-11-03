@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+""" LIFOCache module implementing a LIFO caching system
+"""
+
 BaseCaching = __import__('base_caching').BaseCaching
 
 
